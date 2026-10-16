@@ -1,4 +1,4 @@
-# [NIM] - Pengantar Machine Learning
+# [231230012] - Pengantar Machine Learning
 
 **Nama:** [Lidya Retno Wulan]
 **NIM:** [231230012]
