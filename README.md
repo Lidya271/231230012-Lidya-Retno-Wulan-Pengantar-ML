@@ -8,4 +8,4 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 ## Daftar Tugas
 - **Minggu 3:** [Setup Environment - Hello World](https://github.com/Lidya271/231230012--Lidya-Retno-Wulan--Pengantar-ML/blob/main/Tugas_Minggu_3_Hello_World.ipynb)
-- **Minggu 4:** [Struktur Data] (
+- **Minggu 4:** [Struktur Data] (https://github.com/Lidya271/231230012-Lidya-Retno-Wulan-Pengantar-ML/tree/main/Week-4)
